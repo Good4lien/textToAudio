@@ -5,4 +5,6 @@
 
 #### For an example of the program's operation, a text file with the text '123' and an mp3 audio track in Russian have been added
 
+## Options
 To change the voice language, you need to change lang='ru' to lang='en' or any other language
+![88е](https://user-images.githubusercontent.com/54048747/222939528-891b9589-9221-4620-818b-55d779720e5e.JPG)
