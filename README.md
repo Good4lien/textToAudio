@@ -1,5 +1,5 @@
 # textToAudio
-![image](https://user-images.githubusercontent.com/54048747/222939573-57441cca-b566-4117-86d3-692c83fafd94.png)
+![image](https://user-images.githubusercontent.com/54048747/222939590-128cbeda-6f43-4212-a8e1-77497b1aaf41.png)
 
 ### Voices the text using the module
 
