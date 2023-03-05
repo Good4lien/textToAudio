@@ -1,6 +1,6 @@
 
 ![image](https://user-images.githubusercontent.com/54048747/222939625-d2a1fb8d-6dcf-45dc-802a-0cf5a0b66e38.png)
-<h1 align='center'> TextToAudio </h1>
+<h1 align='left'> TextToAudio </h1>
 
 ### Voices the text using the module
 
