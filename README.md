@@ -1,4 +1,6 @@
 # textToAudio
+![image](https://user-images.githubusercontent.com/54048747/222939573-57441cca-b566-4117-86d3-692c83fafd94.png)
+
 ### Voices the text using the module
 
 #### This script converts tex to audio using the gtts module. To run the program, you need to place it next to main.py a text.txt file and run the program. The output will be an audio file audio.mp3 with a sound track voicing text
